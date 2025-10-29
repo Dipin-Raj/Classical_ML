@@ -1,13 +1,4 @@
-# 🧠 OMNIe Solutions – AI/ML Internship Evaluation Projects
-
-**Name:** Dipin Raj  
-**University:** Chandigarh University  
-**Phone:** +91 6235876977  
-**Email:** dipinr505@gmail.com  
-**Location:** Wayanad, Kerala, India  
-**Company:** Omnie Solutions Pvt. Ltd., Noida  
-**Mentors:** Mr. Chhatra Pratap & Mr. Anand Shukla  
-**Assignment:** Evaluation 01 | **Job Role:** AI/ML Intern  
+# 🧠 Predictive Modeling using Regression and Classification
 
 ---
 
@@ -111,11 +102,6 @@ Random Forest and XGBoost provided **balanced precision-recall tradeoffs** and *
 - **Libraries:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, plotly  
 - **Visualization:** Correlation Maps, ROC Curves, Scatter Plots, Heatmaps  
 - **Version Control:** GitHub
-
----
-
-## 📜 Acknowledgements
-Special thanks to **Omnie Solutions Pvt. Ltd.**, **Mr. Chhatra Pratap**, and **Mr. Anand Shukla** for mentorship and guidance throughout the project.
 
 ---
 
