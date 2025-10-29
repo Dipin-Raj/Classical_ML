@@ -12,9 +12,19 @@
 ---
 
 ## 📂 Repository Structure
-
-
----
+```
+│── Notebook/ # Contains Google Colab notebooks for each task
+│ ├── OMNIe_Task_1.ipynb
+│ ├── OMNIe_Task_2.ipynb
+│
+│── Graphs/ # All EDA visualizations, ROC curves, correlation plots
+│
+│── Report & Documentation/ # Project reports and supporting documents
+│ ├── OMNIe Solutions_Predicting Operational Efficiency of Manufacturing Teams.pdf
+│ ├── OMNIe Solutions_Retail Web Session Intelligence.pdf
+│
+│── README.md # Project overview (this file)
+```
 
 ## 🧩 TASK 1: Predicting Team Efficiency in a Manufacturing Unit
 
