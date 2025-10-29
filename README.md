@@ -44,6 +44,7 @@ To build a **regression model** that predicts team efficiency based on productio
 | Model | R² Score | MSE |
 |-------|-----------|-----|
 | Linear Regression (Scratch) | 0.808 | 0.00388 |
+| Linear Regression (Using Sklearn) | 0.808 | 0.00388 |
 | Decision Tree Regressor | 0.741 | 0.00422 |
 | Random Forest Regressor | **0.856** | **0.00234** |
 
@@ -81,6 +82,7 @@ To develop a **classification model** that predicts the **likelihood of conversi
 | XGBoost | 0.865 | 0.87 | 0.86 | 0.86 | 0.94 |
 | Random Forest | **0.867** | 0.87 | 0.87 | 0.87 | **0.94** |
 | Decision Tree | 0.865 | 0.87 | 0.87 | 0.87 | 0.94 |
+| Logistic Regression (Sklearn) | 0.815 | 0.82 | 0.82 | 0.81 | 0.91 |
 | Logistic Regression (Scratch) | 0.810 | 0.81 | 0.81 | 0.81 | 0.90 |
 
 **Insight:**  
