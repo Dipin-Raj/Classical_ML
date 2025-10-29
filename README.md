@@ -4,11 +4,15 @@
 
 ## 📂 Repository Structure
 ```
+│── Data/ # Contains datasets for each task
+│ ├── manufacturing_data.csv   # Data for Task 01
+│ ├── rwsi_data.csv            # Data for Task 02
+│
+│── Graphs/ # All EDA visualizations, ROC curves, correlation plots
+│
 │── Notebook/ # Contains Google Colab notebooks for each task
 │ ├── OMNIe_Task_1.ipynb
 │ ├── OMNIe_Task_2.ipynb
-│
-│── Graphs/ # All EDA visualizations, ROC curves, correlation plots
 │
 │── Report & Documentation/ # Project reports and supporting documents
 │ ├── OMNIe Solutions_Predicting Operational Efficiency of Manufacturing Teams.pdf
