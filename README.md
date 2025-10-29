@@ -108,8 +108,7 @@ Random Forest and XGBoost provided **balanced precision-recall tradeoffs** and *
 ---
 
 ### 📎 Reference
-📂 Full reports and detailed documentation are available in the [`Documentation/`](./Documentation) folder.  
-🧾 All source notebooks are available in the [`Notebook/`](./Notebook) directory.
-📊 Visual results and graphs can be found in [`Graphical Representations/`](./Graphical%20Representations).
+📂 Full reports and detailed documentation are available in the [`Documentation/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Report%20%26%20Documentation) folder.  
+🧾 All source notebooks are available in the [`Notebook/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Notebooks) directory.  
+📊 Visual results and graphs can be found in the [`Graphical Representations/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Graphs) section.
 
-⭐ **Author:** [Dipin Raj](https://www.linkedin.com/in/dipin-raj-539788231/)
