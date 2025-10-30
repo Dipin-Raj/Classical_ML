@@ -112,8 +112,11 @@ Random Forest and XGBoost provided **balanced precision-recall tradeoffs** and *
 ---
 
 ### 📎 Reference
-📂 Full reports and detailed documentation are available in the [`Documentation/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Report%20%26%20Documentation) folder.  
+📂 Full reports and detailed documentation are available in the [`Documentation/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Report%20%26%20Documentation) folder.
 🧾 All source notebooks are available in the [`Notebook/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Notebooks) directory.  
 📊 Visual results and graphs can be found in the [`Graphical Representations/`](https://github.com/Dipin-Raj/Classical_ML/tree/main/Graphs) section.
 📙 You can find the colab notebook for Task 01 in the [`Task_01_Notebook/`](https://colab.research.google.com/drive/1tRJKkBzhBNWSk7to4rs_u87lmRJKVSdk?usp=sharing).
 📙 You can find the colab notebook for Task 02 in the [`Task_02_Notebook/`](https://colab.research.google.com/drive/1kMER8lM3ONT3aE27Cfl1lJ2C-AdkLeZ8?usp=sharing).
+✅ This is my first item.
+✅ This is my second item.
+✅ This is my third item.
